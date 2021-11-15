@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="maindiv">
+    <div class="rahul">
+        <img src="../300_(97).JPG" alt="">
+        <div class="innerdiv1">
+            <h2> hello world!!</h2>
+            <p> this is playboy Ra HuL</p>
+        </div>
+        </div>
+        <div class="riyad">
+            <img src="../300_(152)-01.jpeg" alt="">
+            <div class="innerdiv2">
+                <h2> hello guyes!!</h2>
+                <p> this is Ri YaD</p>
+            </div>
+    </div>
+</div>
+</body>
+</html>
